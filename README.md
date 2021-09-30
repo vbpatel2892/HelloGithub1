@@ -1,10 +1,10 @@
-# TensorFlow Tutorials
+# TensorFlow Tutorials for beginners
 
 [Original repository on GitHub](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 
 Original author is [Magnus Erik Hvass Pedersen](http://www.hvass-labs.org)
 
-## Introduction
+## Introduction to tensorflow
 
 * These tutorials are intended for beginners in Deep Learning and TensorFlow.
 * Each tutorial covers a single topic.
