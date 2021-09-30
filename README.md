@@ -4,7 +4,7 @@
 
 Original author is [Magnus Erik Hvass Pedersen](http://www.hvass-labs.org)
 
-## Introduction to tensorflow
+## Introduction to tensorflow which is very helpful
 
 * These tutorials are intended for beginners in Deep Learning and TensorFlow.
 * Each tutorial covers a single topic.
